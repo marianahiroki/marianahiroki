@@ -1,4 +1,6 @@
-### Hi there 👋
+### About me
+
+Holding previous architecture and urban design skills and urban research, I am interested in socio-spatial analyses to drive better decisions in our cities. I am currently taking courses on ArcGIS and Data Analytics.
 
 <!--
 **marianahiroki/marianahiroki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
