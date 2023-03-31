@@ -8,7 +8,7 @@ Motivated and enthusiastic entry-level socio-spatial analyst with six years of e
 - 👯 I’m looking to collaborate on mapping projects.
 - 🤔 I’m looking for help with coding in general as I'm a newbie.
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I am vegan, runner and love live classic music concerts.
+- ⚡ Fun fact: I am vegan, runner and love live classic music concerts. I'm also a Humanitarian OSM contributor.
 
 <!--
 **marianahiroki/marianahiroki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
