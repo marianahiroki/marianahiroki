@@ -5,7 +5,7 @@ Utilizes geographic data analysis techniques and software development skills to 
 
 ## Recent Activities
 - 🔭 I’m currently working on my tech skills and looking for a job in geospatial/socio-spatial analysis or as a software developer!
-- 🌱 I’m currently learning Python, SQL, R.
+- 🌱 I'm currently enrolled in the L3 Data Essential Skills Bootcamp.
 - 👯 I’m looking to collaborate on mapping projects.
 - 🤔 I’m looking for help with coding in general.
 - 😄 Pronouns: She/Her
