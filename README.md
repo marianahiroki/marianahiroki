@@ -1,12 +1,12 @@
 ## About me
 
-Motivated and enthusiastic entry-level socio-spatial analyst with six years of experience in the architecture and planning sector. Recent MSc City Design and Social Science graduate with a strong academic background in feminist city and geospatial analysis. My skills include project management, problem-solving and attention to detail, as well as data visualisation. I am passionate about generating insights from data, and I am committed to delivering the best possible findings and recommendations for my clients or employers.
+Utilizes geographic data analysis techniques and software development skills to interpret, manage, and visualize spatial data. Collaborates on projects involving mapping applications, database management, and coding to create innovative solutions. Assists in leveraging geographical information systems (GIS) and programming languages to support decision-making and enhance spatial understanding in various industries.
 
 ## Recent Activities
-- 🔭 I’m currently working on my tech skills and looking for a job on geospatial/socio-spatial analysis!
+- 🔭 I’m currently working on my tech skills and looking for a job in geospatial/socio-spatial analysis or as a software developer!
 - 🌱 I’m currently learning Python, SQL, R.
 - 👯 I’m looking to collaborate on mapping projects.
-- 🤔 I’m looking for help with coding in general as I'm a newbie.
+- 🤔 I’m looking for help with coding in general.
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I am vegan, runner and love live classic music concerts. I'm also a Humanitarian OSM contributor.
 
