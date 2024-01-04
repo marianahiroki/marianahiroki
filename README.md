@@ -1,5 +1,6 @@
 ## About me
 **Geospatial Data Analyst & Software Developer: Navigating Maps and Code**
+
 Utilizes geographic data analysis techniques and software development skills to interpret, manage, and visualize spatial data. Collaborates on projects involving mapping applications, database management, and coding to create innovative solutions. Assists in leveraging geographical information systems (GIS) and programming languages to support decision-making and enhance spatial understanding in various industries.
 
 ## Recent Activities
