@@ -4,8 +4,8 @@
 Utilizes geographic data analysis techniques and software development skills to interpret, manage, and visualize spatial data. Collaborates on projects involving mapping applications, database management, and coding to create innovative solutions. Assists in leveraging geographical information systems (GIS) and programming languages to support decision-making and enhance spatial understanding in various industries.
 
 ## Recent Activities
-- 🔭 I’m currently working on my tech skills and looking for a job in geospatial/socio-spatial analysis or as a software developer!
-- 🌱 I'm currently enrolled in the L3 Data Essential Skills Bootcamp.
+- 🔭 I’m currently working on my tech skills and looking for a job in geospatial/socio-spatial/data analysis or as a software developer!
+- 🌱 I just completed the L3 Data Essential Skills Bootcamp and I am currently enrolled in an ESRI MOOC Going Places with Spatial Analisis.
 - 👯 I’m looking to collaborate on mapping projects.
 - 🤔 I’m looking for help with coding in general.
 - 😄 Pronouns: She/Her
